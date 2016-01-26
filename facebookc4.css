@@ -1,0 +1,85 @@
+/*
+HTTP Host: static.ak.fbcdn.net
+Generated: October 4th 2010 11:59:56 PM PDT
+Machine: 10.30.147.195
+*/
+
+.suggestedPhotoBox img{border:1px solid #ccc;max-width:222px;-ms-interpolation-mode:bicubic;_clear:expression(
+style.width = this.offsetWidth > 222 ? "222px":"auto",
+style.clear = "none", 0
+);margin-top:5px;padding:5px}
+.suggestedPhotoBox,
+.suggestedPhotoBox img{width:222px}
+.bulkTaggerTypeahead{width:210px}
+.bulk_tagger_body .bulkTagIcon{margin-top:6px;margin-right:7px}
+.bulk_tagger_body .bulkTagStatus{display:inline-block;padding-top:4px}
+.bulkTagSaving{display:none}
+.tagSaving .bulkTagSaving{display:inline-block;margin-top:2px}
+.bulk_tagger_loading{background:url(http://static.ak.fbcdn.net/rsrc.php/zk/r/LOOn0JtHNzb.gif) no-repeat center center;height:21px}
+.fbPhotoFeedbackForm .uiUfi{width:436px}
+.fbPhotoFeedbackForm .uiUfi .uiUfiAddComment textarea{width:380px}
+.fbPhotoFeedbackForm .uiUfi .uiUfiAddCommentCollapsed .DOMControl_placeholder{width:418px;_width:380px}
+.fbPhotosGrid{width:100%}
+.fbPhotosGrid td{padding:0 8px 8px 0;width:174px}
+.fbPhotosGridTight td{width:168px}
+.fbPhotosGrid .photoDetails{overflow:hidden;padding-top:2px;width:169px;word-wrap:break-word}
+.fbPhotosGridTight .photoDetails{width:163px}
+.fbPhotosGrid .lastChild{padding-right:0}
+.fbPhotoInfoLabel{margin-bottom:3px}
+.fbPhotosMetaTable{width:100%}
+.fbPhotosMetaTable .infoCell{width:264px}
+.fbPhotosMetaTable .ufiCell{overflow:hidden}
+.fbPhotoPublicLink{text-align:center}
+.fbPhotosSideColumn{padding-top:57px}
+.fbPhotosSideColumnShort{padding-top:44px}
+.fbPhotosSideColumn #sidebar_ads{padding-top:0}
+a.uiMediaThumbTagging{cursor:default}
+a.uiMediaThumbTagging i,
+a.uiMediaThumbTagging .taggerOverlay{cursor:crosshair}
+a.uiMediaThumbTagging:hover,
+a.uiMediaThumbTagging:active,
+a.uiMediaThumbTagging:focus{border-color:#ccc}
+.tagWrapper{position:relative;overflow:hidden}
+a.uiMediaThumbTagging .taggerOverlay .lockIcon{background-image:url(http://static.ak.fbcdn.net/rsrc.php/zu/r/jp8TzrZb6J1.png);background-repeat:no-repeat;display:inline-block;height:15px;left:6px;position:absolute;top:4px;width:15px}
+a.uiMediaThumbTagging .taggerOverlay .blackwash{-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity = 70)";background:#000;filter:alpha(opacity = 70);height:100%;left:0;opacity:.7;position:absolute;top:0;width:100%}
+a.uiMediaThumbTagging .taggerOverlay .highlightBox{-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity = 30)";border:2px solid #fff;filter:alpha(opacity = 30);opacity:.3;position:absolute}
+.uiGrid{border:0;border-collapse:collapse;border-spacing:0}
+.uiGridCalc{width:100%}
+.uiGrid .vTop{vertical-align:top}
+.uiGrid .vMid{vertical-align:middle}
+.uiGrid .vBot{vertical-align:bottom}
+.uiGrid .hLeft{text-align:left}
+.uiGrid .hCent{text-align:center}
+.uiGrid .hRght{text-align:right}
+.uiMediaThumb{border:1px solid #ccc;display:-moz-inline-box;display:inline-block;outline:none;padding:4px;position:relative;vertical-align:bottom}
+.loading.uiMediaThumb{background:url(http://static.ak.fbcdn.net/rsrc.php/zk/r/LOOn0JtHNzb.gif) no-repeat center center;_background:none}
+.loading.uiMediaThumb i{opacity:.3;-ms-filter:'alpha(opacity = 30)';filter:alpha(opacity = 30);_filter:alpha(opacity = 100)}
+.uiMediaThumbSelected{background-color:#3b5998;border-color:#3b5998}
+.uiMediaThumb:hover,
+.uiMediaThumb:hover .uiMediaThumbWrap,
+.uiMediaThumb:active,
+.uiMediaThumb:active .uiMediaThumbWrap,
+.uiMediaThumb:focus,
+.uiMediaThumb:focus .uiMediaThumbWrap{border-color:#3b5998}
+.uiMediaThumb i{background-color:#eee;background-position:center 25%;background-repeat:no-repeat;display:block}
+.uiMediaThumbSmall i{height:54px;width:73px}
+.uiMediaThumbMedium i{height:85px;width:114px}
+.uiMediaThumbLarge i{height:116px;width:158px}
+.uiMediaThumbHuge i{height:120px;width:164px}
+.uiMediaThumbAlb{margin-bottom:4px;margin-right:4px}
+.uiMediaThumbWrap{background:#fff;border:1px solid #ccc;left:4px;padding:4px;position:absolute;top:4px}
+.uiMediaThumbAlbSmall,
+.uiMediaThumbSmall .uiMediaThumbWrap i{height:49px;width:68px}
+.uiMediaThumbAlbMedium,
+.uiMediaThumbMedium .uiMediaThumbWrap i{height:80px;width:109px}
+.uiMediaThumbAlbLarge,
+.uiMediaThumbLarge .uiMediaThumbWrap i{height:111px;width:153px}
+.uiMediaThumbAlbHuge,
+.uiMediaThumbHuge .uiMediaThumbWrap i{height:115px;width:159px}
+.uiCollapsedFacepile .showAll{_clear:both;_float:none;width:100%}
+.uiCollapsedFacepile .showAllLink{border-color:#7792ba;border-width:1px 0 0;padding:3px;vertical-align:middle}
+.uiFacepileSmall .showAllLink{line-height:18px;margin:2px 2px 0 0}
+.uiFacepileMedium .showAllLink{line-height:24px;margin:1px 1px 0 0}
+.uiFacepileLarge .showAllLink{line-height:44px;margin:5px 5px 0 0}
+
+#bootloader_css_5nzqle8kxzc4ko80_pkg_css { height: 42px; }
